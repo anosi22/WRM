@@ -1,1 +1,1 @@
-# WRM
+# WRM: Whetever-relational mapping
